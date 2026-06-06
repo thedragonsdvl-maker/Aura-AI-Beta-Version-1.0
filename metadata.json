@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI",
+  "description": "A highly stylish, premium AI assistant called Aura AI, featuring real-time chat, AI text and image detection, an AI text humanizer, interactive settings, and secure account management with a developer master mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
